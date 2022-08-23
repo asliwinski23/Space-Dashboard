@@ -1,0 +1,32 @@
+﻿Year,NASA Appopriation (B),% of Federal Budget,President,Party,Inflation Rate,Inflation + 1,NASA Appropriation Adjusted for Inflation
+1990,12.4,0.99%,George H. W. Bush,Republican,,,12.4
+1991,13.9,1.05%,George H. W. Bush,Republican,4.10%,1.041,13.35254563
+1992,14,1.01%,George H. W. Bush,Republican,3.00%,1.03,13.05690011
+1993,14.3,1.01%,Bill Clinton,Democrat,2.99%,1.0299,12.94950075
+1994,13.7,0.94%,Bill Clinton,Democrat,2.56%,1.0256,12.09649479
+1995,13.4,0.88%,Bill Clinton,Democrat,2.83%,1.0283,11.50598856
+1996,13.9,0.89%,Bill Clinton,Democrat,2.95%,1.0295,11.59331374
+1997,14.4,0.90%,Bill Clinton,Democrat,2.29%,1.0229,11.74145998
+1998,13.6,0.86%,Bill Clinton,Democrat,1.56%,1.0156,10.91882301
+1999,13.7,0.80%,Bill Clinton,Democrat,2.21%,1.0221,10.76128409
+2000,13.6,0.75%,Bill Clinton,Democrat,3.36%,1.0336,10.33546302
+2001,14.3,0.76%,George W. Bush,Republican,2.85%,1.0285,10.56629594
+2002,14.8,0.72%,George W. Bush,Republican,1.58%,1.0158,10.76564959
+2003,15.3,0.68%,George W. Bush,Republican,2.28%,1.0228,10.88126121
+2004,15.4,0.66%,George W. Bush,Republican,2.66%,1.0266,10.66859591
+2005,16.1,0.63%,George W. Bush,Republican,3.39%,1.0339,10.78782483
+2006,16.3,0.57%,George W. Bush,Republican,3.23%,1.0323,10.58009791
+2007,16.2,0.58%,George W. Bush,Republican,2.85%,1.0285,10.22381073
+2008,17.1,0.60%,George W. Bush,Republican,3.84%,1.0384,10.39271978
+2009,18.18,0.57%,Barack Obama,Democrat,-0.36%,0.9964,11.08902256
+2010,18.7,0.52%,Barack Obama,Democrat,1.64%,1.0164,11.22215695
+2011,18.4,0.51%,Barack Obama,Democrat,3.16%,1.0316,10.70387975
+2012,17.8,0.50%,Barack Obama,Democrat,2.07%,1.0207,10.14484196
+2013,16.9,0.49%,Barack Obama,Democrat,1.46%,1.0146,9.493298357
+2014,17.6,0.50%,Barack Obama,Democrat,1.62%,1.0162,9.728903659
+2015,18,0.49%,Barack Obama,Democrat,0.12%,1.0012,9.938089398
+2016,19.3,0.50%,Barack Obama,Democrat,1.30%,1.013,10.5190921
+2017,19.2,0.47%,Donald Trump,Republican,2.10%,1.021,10.24935263
+2018,19.5,0.50%,Donald Trump,Republican,2.44%,1.0244,10.16155678
+2019,21.5,0.47%,Donald Trump,Republican,1.80%,1.018,11.00566575
+2020,22.6,0.48%,Donald Trump,Republican,0.62%,1.0062,11.49746205
